@@ -16,3 +16,9 @@
   <img alt="Calculadora" src=".github/calculator-Themeblack.png" width="250">
   <img alt="Calculadora" src=".github/calculator-Themewhite.png" width="250">
 </p>
+
+<a id="como-usar"></a>
+## :zap: Como usar
+
+1. Faça um clone desse repositório: `git clone git@github.com:beammz/calculator.git`
+2. Inicie a aplicação: `npm start`
