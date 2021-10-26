@@ -12,6 +12,7 @@
 
 ### :iphone: :heavy_check_mark: Resultado
 
-<h1 align="center">
-    
-</h1>
+<p align="center">
+  <img alt="Calculadora" src=".github/calculator-Themeblack.png" width="250">
+  <img alt="Calculadora" src=".github/calculator-Themewhite.png" width="250">
+</p>
