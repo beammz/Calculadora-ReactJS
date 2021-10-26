@@ -31,4 +31,18 @@ body {
 
   display: flex;
   justify-content: center;
+  padding-top: 100px;
 }
+
+button {
+  font-family: 'Montserrat', sans-serif;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 800px) {
+  body {
+    display: unset;
+    padding-top: 0;
+  }
+}
+
